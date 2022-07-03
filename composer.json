@@ -1,0 +1,18 @@
+{
+    "name": "youcode/shi-match",
+    "description": "This is a simple project PFR",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "TayebsouiniYcode",
+            "email": "TayebsouiniYcode@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.4"
+    }
+}
